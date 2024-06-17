@@ -67,8 +67,8 @@
 /* mobile or only mobile */
 @media (max-width: 767px) {
 	.navbar-brand{
-		margin-left: 10px;
-		margin-right: 10px;
+		margin-left: 5px;
+		margin-right: 5px;
 	}
 	.top-header .navbar .navbar-collapse ul li a{
 		padding: 5px 15px;

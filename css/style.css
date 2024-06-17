@@ -1481,9 +1481,21 @@ select.form-control:not([size]):not([multiple]){
 }
 
 
+.user-options a {
+
+	color: white;
+	text-decoration: none;
+	margin-left: px;
+	
+	align-items: center;
+
+}
 
 
-
+.user-options img {
+    height: 24px;
+    margin-left: 5px;
+}
 
 
 
